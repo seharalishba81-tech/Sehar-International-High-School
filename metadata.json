@@ -1,0 +1,6 @@
+{
+  "name": "Sehar International High School Management System",
+  "description": "Professional bilingual (Urdu & English) school management software for Sehar International High School, Faisalabad. Complete with 100+ student records, 20 faculty profiles, editable school parameters, attendance, fees, and DMC result cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
